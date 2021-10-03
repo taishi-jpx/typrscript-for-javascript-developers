@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/taishi-jpx/typrscript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/taishi-jpx/typrscript-for-javascript-developers#readme"
+  "homepage": "https://github.com/taishi-jpx/typrscript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
