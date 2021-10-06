@@ -12,5 +12,12 @@ axios.get(url).then(function (response) {
     }
     let data: Article[];
     data = response.data
+    data = [
+      {
+        id: 1,
+        title: 'title',
+        description: 'description'
+      }
+    ];
     console.log(data);
   });
